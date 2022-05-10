@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72467629663",
+    "project_id": "proyectododoantho",
+    "storage_bucket": "proyectododoantho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72467629663:android:88ecdad79e534f6caebdea",
+        "android_client_info": {
+          "package_name": "com.example.proyectododoantho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72467629663-7olottkpsjo1snfnkngibvgh2dbr7sd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApq_PQb6SqhvUxdAjQTf2c0jJ5C9LzWyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72467629663-7olottkpsjo1snfnkngibvgh2dbr7sd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
